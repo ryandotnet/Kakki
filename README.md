@@ -1,4 +1,6 @@
 # Kakki
+"Kakki - Vibrance in Japanese."
+
 A .NET console application that checks for game processes and applies a higher Digital Vibrance value to the (NVIDIA) rendering GPU.
 
 # To-Do:
